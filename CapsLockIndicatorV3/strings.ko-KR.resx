@@ -206,7 +206,7 @@
     <comment>The heading of the first-run dialog</comment>
   </data>
   <data name="firstRunMessage" xml:space="preserve">
-    <value>CapsLock Indicator를 사용해 주셔서 고맙습니다! 이 프로그램은 지금까지 그랬듯이 오픈소스이며 무료입니다. 앞으로도 그럴 것입니다. 만약 CapsLock Indicator에 기여하고 싶다면 아래 링크를 눌러 정보를 얻기 바랍니다. 그리고 사용 전에 아래 설정들을 확인하기 바랍니다.</value>
+    <value>CapsLock Indicator를 사용해 주셔서 고맙습니다! 이 프로그램은 지금까지 그랬듯이 오픈소스이며 무료입니다. 앞으로도 그럴 것입니다. 만약 CapsLock Indicator에 기여하고 싶다면 아래 링크를 눌러 정보를 얻기 바랍니다. 그리고 사용 전에 아래 설정을 확인 바랍니다.</value>
     <comment>The message of the first-run dialog</comment>
   </data>
   <data name="firstRunPrivacyInfoLinkLabel" xml:space="preserve">
